@@ -22,9 +22,9 @@ import (
 	"errors"
 	"math"
 
-	"internal/api"
-	"internal/hardware"
-	"internal/ref"
+	"github.com/pbehnke/chacha20/internal/api"
+	"github.com/pbehnke/chacha20/internal/hardware"
+	"github.com/pbehnke/chacha20/internal/ref"
 )
 
 const (
