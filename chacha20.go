@@ -22,9 +22,9 @@ import (
 	"errors"
 	"math"
 
-	"gitlab.com/yawning/chacha20.git/internal/api"
-	"gitlab.com/yawning/chacha20.git/internal/hardware"
-	"gitlab.com/yawning/chacha20.git/internal/ref"
+	"internal/api"
+	"internal/hardware"
+	"internal/ref"
 )
 
 const (
