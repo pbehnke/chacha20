@@ -1,4 +1,4 @@
-module module github.com/pbehnke/chacha20
+module github.com/pbehnke/chacha20
 
 go 1.12
 
